@@ -46,4 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+## Tree
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
