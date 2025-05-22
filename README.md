@@ -49,17 +49,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
