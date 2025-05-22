@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [3321-type-of-triangle](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [3321-type-of-triangle](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
