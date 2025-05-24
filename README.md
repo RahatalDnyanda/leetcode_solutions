@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0344-reverse-string) |
+| [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0221-maximal-square) |
+| [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3321-type-of-triangle) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0221-maximal-square) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
