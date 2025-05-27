@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3639-zero-array-transformation-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
