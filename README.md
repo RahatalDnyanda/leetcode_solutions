@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0344-reverse-string) |
 | [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0221-maximal-square) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
