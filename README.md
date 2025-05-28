@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
