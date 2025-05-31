@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -92,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0221-maximal-square) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0086-partition-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
