@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3194-find-words-containing-character) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3321-type-of-triangle) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
 |  |
 | ------- |
