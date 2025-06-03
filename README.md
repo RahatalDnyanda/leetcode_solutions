@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
