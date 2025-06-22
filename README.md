@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0344-reverse-string) |
 | [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
