@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Enumeration
 |  |
 | ------- |
