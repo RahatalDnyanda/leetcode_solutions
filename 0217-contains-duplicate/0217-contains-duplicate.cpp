@@ -10,12 +10,12 @@ public:
             }
         }
         return false;*/
-        unordered_map<int, int> mpp;
+        unordered_set<int> st;
         for(int num: nums){
-            mpp[num]++;
-            if(mpp[num] >= 2){
+            if(st.find(num) != st.end()){
                 return true;
             }
+            st.insert(num);
         }
 
         return false;
