@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
