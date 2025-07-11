@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3321-type-of-triangle) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
