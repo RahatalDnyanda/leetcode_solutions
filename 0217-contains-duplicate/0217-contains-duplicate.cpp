@@ -13,10 +13,7 @@ public:
         unordered_map<int, int> mpp;
         for(int num: nums){
             mpp[num]++;
-        }
-
-        for(auto [num,cnt]: mpp){
-            if(cnt >= 2){
+            if(mpp[num] >= 2){
                 return true;
             }
         }
