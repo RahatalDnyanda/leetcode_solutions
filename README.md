@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
