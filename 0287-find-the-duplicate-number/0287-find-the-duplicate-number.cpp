@@ -4,10 +4,7 @@ public:
         unordered_map<int, int> mpp; //{num, cnt}
         for(int num: nums){
             mpp[num]++;
-        }
-       
-        for(auto [num, cnt]: mpp){
-            if(cnt > 1){
+            if(mpp[num] > 1){
                 return num;
             }
         }
