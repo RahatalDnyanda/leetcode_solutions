@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0268-missing-number) |
 | [0945-snakes-and-ladders](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [1319-unique-number-of-occurrences](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0268-missing-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Matrix
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Enumeration
