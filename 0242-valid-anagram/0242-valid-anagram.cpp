@@ -18,7 +18,7 @@ public:
             }
         }
 
-        if(mpp.size() == 0){
+        if(mpp.empty()){
             return true;
         }
 
