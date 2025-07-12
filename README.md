@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0344-reverse-string) |
 | [1524-string-matching-in-an-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1524-string-matching-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/1848-sum-of-unique-elements) |
