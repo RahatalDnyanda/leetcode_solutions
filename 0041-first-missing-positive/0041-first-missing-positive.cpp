@@ -4,7 +4,6 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size();
         int cnt = 1;
-        bool flag = false;
         for(int i=0; i<n; i++){
             int num = nums[i];
             if(num > 0){
