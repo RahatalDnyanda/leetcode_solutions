@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/0268-missing-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RahatalDnyanda/leetcode_solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
